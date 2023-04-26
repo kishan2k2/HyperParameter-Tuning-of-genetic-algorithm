@@ -1,5 +1,6 @@
-numpy
-pygame
-neat-python
-graphviz
-matplotlib
+##Need to install 
+#numpy
+#pygame
+#neat-python
+#graphviz
+#matplotlib
