@@ -1,0 +1,11 @@
+Index,abs,clamped,cube,exp,gauss,hat,identity,inv,log,relu,elu,lelu,selu,sigmoid,sin,softplus,square,tanh,Finding which activation default is most useful in which Typical case.
+1,,,,,,,,,,245,,,,249,250,239,,239,
+2,,,,,,,,,,249,,,,236,249,245,,249,
+3,,,,,,,,,,247,,,,255,245,247,,246,
+4,,,,,,,,,,243,,,,242,260,248,,240,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,Also doing the activation mutation rate.,,,,,,,,,,,,,,,,
